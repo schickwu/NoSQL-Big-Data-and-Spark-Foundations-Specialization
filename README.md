@@ -1,6 +1,6 @@
 # NoSQL-Big-Data-and-Spark-Foundations
 
-Three courses series: 
+Three course series: 
 - Introduction to NoSQL Databases
 - Introduction to Big Data with Spark and Hadoop
 - Machine Learning with Apache Spark
