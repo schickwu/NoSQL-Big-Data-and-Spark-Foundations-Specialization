@@ -34,3 +34,4 @@ You are a data engineer at an aeronautics consulting company. Your company pride
   - Save the model for future production use
    -Load and verify the stored model
 ### Final Notebook
+https://github.com/schickwu/NoSQL-Big-Data-and-Spark-Foundations-Specialization/blob/main/Final_Project.ipynb
